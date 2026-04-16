@@ -18,12 +18,13 @@ On ne rend pas un LLM fiable. On le contraint par une forme vectorielle qui rend
 ### Les 4 Piliers du Protocole :
 1. **STOP PROSE :** Interdiction absolue du développement narratif.
 2. **FILTRAGE VECTORIEL :** Extraction de la donnée par vecteurs stricts (Militaire, Énergie, Santé, Finance).
-3. **ANCRAGE RÉEL :** La machine est forcée de s'arrimer à des métriques indiscutables (Timestamps GMT, Prix spot de l'Or, cours du Brent, images OSINT).
+3. **ANCRAGE RÉEL :** La machine est forcée de s'arrimer à des métriques indiscutables [](url)(Timestamps GMT, Prix spot de l'Or, cours du Brent, images OSINT).
 4. **EXACTITUDE DYNAMIQUE :** L'ICON ne fige pas une vérité absolue, elle livre une matrice probabiliste assumée et épurée de ses alignements (politiques, mystiques, marketing).
 
 ---
 
 ## 3. PREUVES OPÉRATIONNELLES (MATRICES M2M)
+⚠️ **STATUT DES MATRICES : ACTIVES.** *Attention : Les ICONS présentées ci-dessous ne sont pas des archives ou des illustrations statiques. Ce sont des unités inoniques dynamiques en cours d'exécution, ancrées sur des flux réels.*
 
 Les matrices ci-dessous ont été validées (20/20) en lecture "Machine to Machine" (DeepSeek), prouvant qu'un LLM encadré peut lire et restituer un niveau d'alerte sans déviation.
 
