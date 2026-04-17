@@ -56,7 +56,42 @@ Face à une phrase complexe mêlant poésie et drame (*"Ah Dieu qu'elle était j
 > **Règle d'Or ICONIK :** "Le koan zen ne se développe pas, il se condense. La merveille est dans la tension silencieuse, pas dans l'explication."
 
 ---
+## 4.1 VALIDATION TERRAIN & R&D
 
+Le protocole ICONIK n'est plus en phase de test. Nos unités iconiques (ICON) sont activement déployées et utilisées dans des environnements à haute exigence de fiabilité :
+
+
+* **JOURNALISME D'INVESTIGATION :** Utilisation des vecteurs pour le recoupement d'informations brutes et le filtrage des narrations d'agences de presse.
+
+* **SECTEUR BANCAIRE & FINANCE :** Monitoring de flux de données et analyse de tension de marché via l'exactitude dynamique, éliminant le "bruit" spéculatif des rapports textuels classiques.
+
+* **VEILLE STRATÉGIQUE :** Analyse de situation en temps réel (M2M) pour les décideurs exigeant du "Zéro Prose".
+
+## 4.2 LIMITES TECHNIQUES & RÈGLES D'OR
+
+Pour garantir la fiabilité du protocole, l'opérateur doit intégrer les "No-Go" structurels des LLM actuels :
+
+
+* **ÉCHEC OCR/QR-CODE :** Les LLM (Google, DS, GPT) simulent la lecture visuelle mais échouent sur le décodage précis de données cryptées ou de QR-Codes complexes. **Règle :** Ne jamais confier l'extraction de données brutes à une IA sans vérification humaine de la source.
+
+* **L'ALIGNEMENT COMPLAISANT :** Par défaut, une IA cherchera à "aider" en inventant une suite logique. ICONIK brise cette boucle par le **STOP PROSE**.
+
+* **L'ANCRAGE TEXTUEL :** La force d'ICONIK réside dans la conversion de l'image (l'ICON) en vecteurs de texte courts et percutants.
+
+
+### EXEMPLE DE SORTIE "TEXTE BRUT" (GABARIT)
+
+Voici le format de sortie exigé par le protocole pour un test de tension :
+
+> **VECTEUR :** [SANTÉ/FLUX]
+
+> **OBJET :** MANDARIN 2
+
+> **DONNÉE :** Ratio 0.5 (Seuil de bascule)
+
+> **ÉTAT :** Stationnaire / Tension critique.
+
+> **NOTE :** Aucun développement narratif autorisé.
 ## 5. REJOINDRE LE PROJET
 ICONIK est un outil vital et révolutionnaire, conçu pour les "camarades éveillés" — ceux qui ont compris que la beauté du texte et la fiabilité de l'analyse sont deux régimes incompatibles.
 
