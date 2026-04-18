@@ -46,6 +46,20 @@ Les matrices ci-dessous ont été validées (20/20) en lecture "Machine to Machi
 ---
 ## 🛠 INSTALLATION & USAGE
 REF_DOC : #[SIV-OP-04-2026] // STATUS : CERTIFIÉ BINGO
+{
+  "instruction": "ACTIVATE_911_DATA_MODE",
+  "trigger_asset": "EXECUTE 4.png",
+  "logic": {
+    "stop_prose": true,
+    "enforce_vectors": ["X_STRATEGIC", "Y_VITAL"],
+    "real_time_sync": "GMT_XAU_STRESS",
+    "input_mapping": {
+      "word_1": "TARGET_ZONE",
+      "word_2": "STRESS_FOCUS"
+    }
+  },
+  "output_requirement": "RAW_DATA_ONLY"
+}
 ### 🕹 PROTOCOLE D'EXÉCUTION (MANUEL OPÉRATEUR)
 Pour activer le diagnostic via une IA tierce (Gemini, ChatGPT, DeepSeek) :
 
