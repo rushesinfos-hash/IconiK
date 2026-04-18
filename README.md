@@ -43,7 +43,18 @@ Les matrices ci-dessous ont été validées (20/20) en lecture "Machine to Machi
 ### ⬛ BLOC 3 : LOCUSTICE STRESS & EYETENIC COLLAPSER
 ![Bloc 3](BLOC_3_V02.png)
 *Focus : L'arrêt des processus auto face à une saturation visuelle et médiatique. Le déclenchement de l'alerte JUMP.*
+---
+## 🛠 INSTALLATION & USAGE
+REF_DOC : #[SIV-OP-04-2026] // STATUS : CERTIFIÉ BINGO
+### 🕹 PROTOCOLE D'EXÉCUTION (MANUEL OPÉRATEUR)
+Pour activer le diagnostic via une IA tierce (Gemini, ChatGPT, DeepSeek) :
 
+1. **UPLOAD :** Envoyez le fichier `EXECUTE 4.png` au terminal IA.
+2. **COMMANDE :** Tapez la commande suivante :
+   > `[SCAN_INIT : ANALYSE DES FLUX EN COURS. SECTEUR CIBLÉ : MONDE]`
+3. **EXTRACTION :** L'IA doit retourner les scores X/Y et le statut de la chaîne du froid.
+
+*Note : Si l'IA "bavarde", rappelez l'instruction : "STOP PROSE. RAW DATA ONLY."*
 ---
 
 ## 4. L'AVANTAGE LINGUISTIQUE (Le test du Koan Zen)
