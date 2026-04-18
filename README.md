@@ -25,12 +25,20 @@ Lorsqu'on demande à un LLM d'analyser une situation critique, sa nature probabi
 ⚠️ **STATUT DES MATRICES : ACTIVES.**
 
 ### 🔴 VECTEUR ROUGE : Alerte Systémique
-![Matrice Rouge](ICON_ROUGE_V5.jpg)  
+![Matrice Rouge](ICON%20ROUGE%20version%205%20validé%20DS.jpg)  
 *Focus : Ruptures d'infrastructures lourdes, blocages géopolitiques vitaux.*
 
 ### 🟡 VECTEUR JAUNE : Stress Logistique
-![Matrice Jaune](ICON_JAUNE_V7.jpg)  
+![Matrice Jaune](ICON%20JAUNE%20version%207%20validé%20DS.jpg)  
 *Focus : Tensions sur les chaînes d'approvisionnement, "Helium Shortage", spread bancaire.*
+
+### 🟢 VECTEUR VERT : Vital Flows
+![Matrice Verte](ICON%20VERT%20Madarin.png)  
+*Focus : Maintien des flux vitaux partiels, résilience épidémique.*
+
+### ⬛ BLOC 3 : LOCUSTICE STRESS & EYETENIC COLLAPSER
+![Bloc 3](BLOC%203%20ICON%20version%2002.PNG)  
+*Focus : Arrêt des processus auto face à la saturation. Déclenchement de l'alerte JUMP.*
 
 ### 🟢 VECTEUR VERT : Vital Flows
 ![Matrice Verte](ICON_VERT_MANDARIN.png)  
