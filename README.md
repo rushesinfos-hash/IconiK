@@ -56,6 +56,21 @@ Pour activer le diagnostic via une IA tierce (Gemini, ChatGPT, DeepSeek) :
 
 *Note : Si l'IA "bavarde", rappelez l'instruction : "STOP PROSE. RAW DATA ONLY."*
 ---
+⬛ VERSION ANGLAISE (DÉPLOIEMENT GLOBAL)
+
+    🕹 EXECUTION PROTOCOL (OPERATOR MANUAL)
+
+    To activate the diagnostic via a third-party AI (Gemini, ChatGPT, DeepSeek):
+
+        UPLOAD: Send the file EXECUTE 4.png to the AI terminal.
+
+        COMMAND: Enter the following command:
+        [SCAN_INIT: ONGOING FLOW ANALYSIS. TARGET SECTOR: WORLD]
+
+        EXTRACTION: The AI must return the X/Y scores and the cold chain status.
+
+    Note: If the AI begins to "chatter," re-issue the instruction: "STOP PROSE. RAW DATA ONLY."
+---
 
 ## 4. L'AVANTAGE LINGUISTIQUE (Le test du Koan Zen)
 Le protocole ICONIK révèle la faiblesse structurelle des traductions IA standards. 
