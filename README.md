@@ -59,7 +59,9 @@ Lorsqu'on demande à un LLM d'analyser une situation critique, sa nature probabi
 3. **EXTRACTION :** L'IA retourne les scores X/Y et le statut vital.
 
 *Note : Si l'IA "bavarde", rappelez l'instruction : "STOP PROSE. RAW DATA ONLY."*
-
+### 🚨 LA LOI D'AIRIN (SÉCURITÉ SYSTÈME)
+**NE JAMAIS** valider les ICONS sur un terminal LLM en cours de développement. 
+Risque de **Larsen Fatal** et de corruption des vecteurs.
 ---
 
 ### 🕹 [SYSTEM_LOGIC] : M2M DYNAMICS
