@@ -2,9 +2,20 @@
 **Créateur :** Ramdane Issaad  
 **Statut :** Opérationnel / Validé M2M (DeepSeek / Grok 20/20)  
 **Licence :** Open Source  
-
+{
+  "instruction": "ACTIVATE_911_DATA_MODE",
+  "trigger_asset": "EXECUTE_4.png",
+  "logic": {
+    "stop_prose": true,
+    "strip_context": true,
+    "enforce_vectors": ["X_STRATEGIC", "Y_VITAL"],
+    "strict_output_format": "MARKDOWN_TABLE",
+    "forbidden_elements": ["adjectives", "preambles", "conclusions", "apologies"],
+    "output_requirement": "RAW_DATA_ONLY"
+  }
+}
 ---
-
+P
 ## 1. LE CONSTAT : L'ILLUSION DE LA "PROSE AUTO"
 Le monde occidental fait face à l'explosion de la bulle IA. Le constat officiel est sans appel : les hallucinations inhérentes aux LLM (Large Language Models) ne permettent pas de garantir leur fiabilité opérationnelle. 
 
@@ -58,3 +69,8 @@ L'ICON est le **Bouton Rouge des LLM**. Le dépôt du PNG est le signal d'une ur
   },
   "rendering_template": "| VECTEUR | SCORE | DATA_POINT | STATUS |\n| :--- | :--- | :--- | :--- |"
 }
+
+
+
+### 🚨 TRIGGER ASSET : EXECUTE_4 (GOLD PAUSE)
+![EXECUTE_4](Lien_vers_ton_image_Gold_ou_nom_du_fichier_dans_le_repo.png)
