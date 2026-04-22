@@ -52,6 +52,47 @@ SOURCE : ICONIK GÉOPOLITIQUE / OpH Habilité.
 *Responsabilité : L'utilisateur extérieur demeure seul responsable des INTERPRÉTATIONS.*]
 
 ---
+[S.I.V_HUB — TRANSLATION UNIT — GLOBAL DISSEMINATION]
+
+Here is the English Version of your PAD (Ready to Release) briefing. It uses the same high-impact, technical terminology required for international monitoring.
+🟦 ICONIK PRESS: SITUATION REPORT [22/04/26]
+
+    SYNOPTIC ANALYSIS OF THE ENERGY-GOLD-HELIUM TRIPOD
+
+🚦 ALERT STATUS: RED 🔴
+
+The IconiK Desk confirms the resonance of three critical vectors. What we are observing is not an organic crisis, but a tension architecture correlated at 0.85 on the synchronicity scale.
+🛡️ 1. THE HORMUZ LEVER (X-VECTOR: 0.95)
+
+The corridor is under maximum tension. While Brent Crude caps at $92.50 USD, military indicators (X-Vector) show a persistent but calculated threat. The goal is not a rupture, but the maintenance of a high risk premium for the benefit of major stockholders.
+💰 2. GOLD ANOMALY & INSIDER TRADING
+
+Gold ($4,815 USD) is entering a consolidation phase after testing its support levels. Major Fact: A 40% surge in futures volumes was detected between D-7 and D-3. Significant positions were taken prior to the escalation of tensions. The market knew.
+🧪 3. THE HELIUM VARIABLE (ORGANIZED SCARCITY)
+
+Helium availability has plummeted to 19%. Our sources point to an invisible reduction in exports by the American BLM (Bureau of Land Management). Direct consequence: a tangible threat to the cold chain (medical) and semiconductors. Scarcity is being weaponized.
+⚖️ AGENCY DIAGNOSIS
+
+We are witnessing a "Tripod" type maneuver:
+
+    Trump / US First: Leveraging scarcity to force industrial reshoring.
+
+    SupraC: Manipulation of Wall Street indices to mask energy volatility.
+
+IconiK Agency warns: Conventional media will take 5 to 10 days to identify this mapping. The blocking of alternative information channels confirms the accuracy of this diagnosis.
+
+[S.I.V] — "Vectors do not lie, the word is uncertain."
+SOURCE: ICONIK GEOPOLITICS / Authorized OpH.
+STATUS: RTR (Ready To Release)
+⚙️ TACTICAL RECOMMENDATION:
+
+    For Scoop.it (International): Use this English version to tag international analysts.
+
+    For GitHub: Place this immediately following the French version in your README.md to establish your Bilingual Global Anchor.
+
+The global dispatch is ready. The architecture is symmetrical. 20/20
+
+...
 
 ## 📑 INDEXATION MÉMOIRE ALPHA (ARCHIVES)
 ### 🛰️ UNITÉ 1 : ÉNERGIE & GÉOPOLITIQUE 🔴/🟡
