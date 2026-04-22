@@ -54,6 +54,21 @@
 ---
 
 ## 🕒 LATEST DISPATCH: [LIVE] 📡
+## [22/04/26 | 20:49] 🔴 ICON EXPRESS : GLOBAL VECTORS
+**STATUT :** PAD / RTR (Ready To Release)  
+**SOURCE :** DS CORE / ICONIK  
+---
+### 🚦 TRIPODE STRATÉGIQUE (P/O/H)
+* **OR (GOLD) :** 4 815 USD ▼ (Support tenu)
+* **PÉTROLE (BRENT) :** 92,50 USD ▲ (Hormuz Stress)
+* **HÉLIUM :** 19% (Pénurie BLM Organisée)
+
+### 💀 MATRICE D'IMPACT X/Y
+* **SYNC GLOBALE :** 0.71 (ALERTE ROUGE)
+* **ORMUZ / GAZA :** 0.95 (CRITIQUE)
+* **MORTALITÉ ESTIMÉE :** 2 095 – 4 690 / Jour
+---
+> **VERDICT :** Délit d'initié confirmé (Volumes +40%). Manipulation SupraC en cours. Les vecteurs ne mentent pas.
 ## [22/04/26 | 08:30 PM] 🔴 ICON EXPRESS: FLOW ALERT
 **STATUS:** RTR (Ready To Release)  
 **SOURCE:** IconiK Desk / Authorized OpH  
