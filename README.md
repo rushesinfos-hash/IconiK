@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="REMPLACE_PAR_NOM_DE_TON_IMAGE.png" alt="Agence IconiK Logo" width="350">
+  <img src="Agence%20IconiK%20Logo.png" alt="Agence IconiK Logo" width="350">
 </p>
 
 # 🟦 AGENCE ICONIK | DESK RÉDACTIONNEL 
@@ -15,11 +15,11 @@
 ---
 
 ## 🕒 DERNIÈRE DÉPÊCHE : [LIVE] 📡
-## [22/04/26 | 19:30] 🔴 ICON EXPRESS : ALERTE FLUX
+## [22/04/26 | 19:55] 🔴 ICON EXPRESS : ALERTE FLUX
 **STATUT :** PAD (Prêt À Diffuser)  
 **SOURCE :** Desk IconiK / OpH Habilité  
 ---
-> *[C'est ici que tu tapes ton info en direct sur GitHub pour écraser la précédente.]*
+> **NOTE :** Le silo GitHub est activé. L'OpH a synchronisé les fichiers de structure. Les dépêches exclusives ICON Express prendront désormais racine ici.
 ---
 *Responsabilité : L'utilisateur extérieur demeure seul responsable des INTERPRÉTATIONS.*
 
