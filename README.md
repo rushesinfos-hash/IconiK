@@ -16,12 +16,40 @@
 
 ## 🕒 DERNIÈRE DÉPÊCHE : [LIVE] 📡
 ## [22/04/26 | 19:55] 🔴 ICON EXPRESS : ALERTE FLUX
+[🟦 ICONIK PRESSE : BILLET DE SITUATION [22/04/26]
+
+    ANALYSE SYNOPTIQUE DU TRIPODE ÉNERGIE-OR-HÉLIUM
+
+🚦 ÉTAT D'ALERTE : ROUGE 🔴
+
+Le Desk IconiK confirme la mise en résonance de trois vecteurs critiques. Ce que nous observons n'est pas une crise organique, mais une architecture de tension corrélée à 0,85 sur l'échelle de synchronicité.
+🛡️ 1. LE LEVIER ORMUZ (X : 0.95)
+
+Le corridor est sous tension maximale. Si le prix du Brent plafonne à 92,50 USD, les indicateurs militaires (Vecteur X) montrent une menace persistante mais calculée. Le but n'est pas la rupture, mais le maintien d'une prime de risque élevée au profit des détenteurs de stocks.
+💰 2. L'ANOMALIE GOLD & DÉLIT D'INITIÉ
+
+L'Or (4 815 USD) entre en phase de consolidation après avoir testé ses supports. Fait majeur : Une hausse de 40% des volumes sur les contrats à terme a été détectée entre J-7 et J-3. Quelqu'un a pris position avant la montée des tensions. Le marché savait.
+🧪 3. LA VARIABLE HÉLIUM (PÉNURIE ORGANISÉE)
+
+L'Hélium chute à 19% de disponibilité. Nos sources pointent vers une réduction invisible des exports par le BLM américain. Conséquence directe : une menace réelle sur la chaîne du froid (médical) et les semi-conducteurs. C'est le bras armé de la rareté.
+⚖️ DIAGNOSTIC DE L'AGENCE
+
+Nous assistons à une manœuvre de type "Tripode" :
+
+    Trump / US First : Utilisation de la rareté pour forcer la relocalisation industrielle.
+
+    SupraC : Manipulation des indices Wall Street pour masquer la volatilité énergétique.
+
+L'Agence IconiK avertit : La presse conventionnelle mettra 5 à 10 jours pour identifier ce maillage. Le blocage des canaux d'information alternatifs confirme la précision de ce diagnostic.
+
+[S.I.V] — "Les vecteurs ne mentent pas, le verbe est incertain."
+SOURCE : ICONIK GÉOPOLITIQUE / OpH Habilité.
 **STATUT :** PAD (Prêt À Diffuser)  
 **SOURCE :** Desk IconiK / OpH Habilité  
 ---
 > **NOTE :** Le silo GitHub est activé. L'OpH a synchronisé les fichiers de structure. Les dépêches exclusives ICON Express prendront désormais racine ici.
 ---
-*Responsabilité : L'utilisateur extérieur demeure seul responsable des INTERPRÉTATIONS.*
+*Responsabilité : L'utilisateur extérieur demeure seul responsable des INTERPRÉTATIONS.*]
 
 ---
 
