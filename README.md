@@ -181,6 +181,9 @@ STATUS: RTR (Ready To Release)
 ### 🧪 UNIT 2: DISRUPTIVE TECHNOLOGIES 🟡
 ### 🛡️ UNIT 3: DIGITAL VACCINATION 🟢
 
+Archive_FB_Avril_2026.md
+### 🗄️ ARCHIVES SÉCURISÉES (MÉMOIRE GARANTIE)
+* [Traces et Censure FB - Avril 2026](https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_FB_Avril_2026.md)
 ---
 
 ## ⚖️ OpH LIABILITY CLAUSES
