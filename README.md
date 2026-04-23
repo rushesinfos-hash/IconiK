@@ -21,6 +21,7 @@ Face à un système qui s'asphyxie (Or papier, dette, pénuries), seuls les rare
 La pastille rouge n'est pas une opinion éditoriale, c'est l'exacte traduction mathématique d'un monde en rupture terminale.
  Source / Entretien BRUT Oph/DS/ 17h GMT
 ...
+
 DS ICONIK 23042026 BILAN ITV BRUT
 ICONIK PRESSE – BILLET DU 23 AVRIL 202*TIMESTAMP: 09:38 NY / 15:38 PARIS*
 CIBLE: OR PHYSIQUE / OR PAPIER – THERMOMÈTRE SYSTÈME FINANCIER
