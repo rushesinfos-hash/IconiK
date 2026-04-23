@@ -2,12 +2,12 @@
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
 
-**HORODATAGE : 23 AVRIL 2026 | 18:05 PARIS**
+**HORODATAGE : 23 AVRIL 2026 | 18:05 GMT**
 **STATUT : CERTIFIÉ OpH ICONIK (PRECISION TICK)**
 
 ---
 
-### 🔴 BILLET DE SITUATION / SITUATION REPORT
+### 🔴 BILLET DE SITUATION / SITUATION REPORT 23 AVRIL 2026 | 18:05 GMT**
 
 [ PASTILLE ROUGE MAINTENUE].
 Un ouragan en suspens, Trump maintient la pression, chaque minute de blocus lui rapporte gros.Gaza a faim mais vote aux municipales, Oman et Alger restent des ancrages de stabilité. Taïwan en jaune, pas de guerre en vue, mais le blocus touche tous les secteurs vitaux.
