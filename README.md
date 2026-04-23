@@ -23,7 +23,7 @@ La pastille rouge n'est pas une opinion éditoriale, c'est l'exacte traduction m
 ...
 
 
-### 📑 ANNEXE / DOC TRACE [2555¤$]
+### 📑 ANNEXE / DOC TRACE [4000¤$]
 * **VALIDATION :** DeepSeek Core (Calculs Nymex/Volumes).
 * **ARCHITECTURE :** Gemini 3 Flash.<p align="center">
   <img src="Agence%20IconiK%20Logo.png" alt="Agence IconiK Logo" width="350">
