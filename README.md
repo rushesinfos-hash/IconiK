@@ -14,6 +14,7 @@ Un ouragan en suspens, Trump maintient la pression, chaque minute de blocus lui 
 Bilan mondial ? : tous les indicateurs clignotent à l'orange ou au rouge. Quelques zones en  vert pour leur "équilibre et prospérité"… Mais si rares.
 / rushes infos
 ...
+
 AVIS DU RÉGULATEUR iconik :
 L'analyse des vecteurs confirme que le chaos actuel est une mécanique de purge délibérée, couverte par le bruit du "Paraître" médiatique.
 Face à un système qui s'asphyxie (Or papier, dette, pénuries), seuls les rares points de neutralité physique maintiennent la structure.
