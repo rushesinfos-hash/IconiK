@@ -19,7 +19,7 @@ AVIS DU RÉGULATEUR iconik :
 L'analyse des vecteurs confirme que le chaos actuel est une mécanique de purge délibérée, couverte par le bruit du "Paraître" médiatique.
 Face à un système qui s'asphyxie (Or papier, dette, pénuries), seuls les rares points de neutralité physique maintiennent la structure.
 La pastille rouge n'est pas une opinion éditoriale, c'est l'exacte traduction mathématique d'un monde en rupture terminale.
- Source / Entretien BRUT Oph/DS/ 17h GMT
+ Source / Entretien BRUT Oph/DS/ 17h GMT/ https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md
 ...
 
 
