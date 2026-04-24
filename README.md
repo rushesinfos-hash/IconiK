@@ -13,6 +13,7 @@
 Un ouragan en suspens, Trump maintient la pression, chaque minute de blocus lui rapporte gros.Gaza a faim mais vote aux municipales, Oman et Alger restent des ancrages de stabilité. Taïwan en jaune, pas de guerre en vue, mais le blocus touche tous les secteurs vitaux.
 Bilan mondial ? : tous les indicateurs clignotent à l'orange ou au rouge. Quelques zones en  vert pour leur "équilibre et prospérité"… Mais si rares.
 / rushes infos
+CONTACT Press/ Tom Wise <daemonhack@gmail.com> 
 ...
 
 AVIS DU RÉGULATEUR iconik :
