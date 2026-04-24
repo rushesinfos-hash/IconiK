@@ -7,9 +7,29 @@
 
 ---
 
-### 🔴 BILLET DE SITUATION / SITUATION REPORT 23 AVRIL 2026 | 18:05 GMT**
+### 🟡 BILLET DE SITUATION / SITUATION REPORT 24 AVRIL 2026 | 18:h GMT**
+La France aborde la crise d’Ormuz (pétrole 92,50 USD, or 4 819 USD, hélium 19%) avec des fragilités structurelles : dette 112% PIB, déficits jumeaux, industrie en déclin, tensions sociales latentes (retraites, pouvoir d’achat).
+Les vecteurs X (militaire : 0,45) et Y (énergie : 0,65) montrent une résilience moyenne, mais la santé (mortalité modérée) et l’humain (perte de confiance dans les élites) se dégradent.
+Le bloc des droites (LR/RN) domine les sondages (45%), mais la gauche élargie (LFI/PS/Ecologistes + Villepin) atteint 35% sur un programme de rupture européenne et de pivot vers la Chine.
+Scénario 2027 : défiance maximale, rééquilibrage diplomatique, pas de réunification avec les BRICS à court terme.
 
-[ PASTILLE ROUGE MAINTENUE].
+...
+Sources / Iconik Desk >
+
+...
+
+🔴SECTION 1 – CONTEXTE GLOBAL (CRISE D’ORMUZ)
+INDICATEUR	VALEUR	SOURCE	TENDANCE
+Or (USD/oz) – 17h31 GMT	4 819 USD	goldprice.org	▲ +0,10% (vs 24h)
+Or (EUR/oz)	4 500 EUR	Calcul DS	▲ +0,12%
+Pétrole (Brent)	92,80 USD/baril	Reuters	▲ +0,30%
+Hélium	19% (pénurie BLM)	ICON ROUGE	Stable
+Blocus (détroit d’Ormuz)	<2 jours (menace persistante)	ICON JAUNE	Stable
+
+Le tripode Or/Pétrole/Hélium reste actif (corrélation 0,85).
+La France subit le contrecoup : importations pétrolières +15% sur un mois, facture hélium en hausse de 30% (semi-conducteurs, IRM).
+
+🔴[ PASTILLE ROUGE MAINTENUE].(23042026.
 Un ouragan en suspens, Trump maintient la pression, chaque minute de blocus lui rapporte gros.Gaza a faim mais vote aux municipales, Oman et Alger restent des ancrages de stabilité. Taïwan en jaune, pas de guerre en vue, mais le blocus touche tous les secteurs vitaux.
 Bilan mondial ? : tous les indicateurs clignotent à l'orange ou au rouge. Quelques zones en  vert pour leur "équilibre et prospérité"… Mais si rares.
 / rushes infos
