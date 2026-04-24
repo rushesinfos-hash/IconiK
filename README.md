@@ -14,7 +14,7 @@ Le bloc des droites (LR/RN) domine les sondages (45%), mais la gauche élargie (
 Scénario 2027 : défiance maximale, rééquilibrage diplomatique, pas de réunification avec les BRICS à court terme.
 
 ...
-Sources / Iconik Desk >
+Sources / Iconik Desk >https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md
 
 ...
 
