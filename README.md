@@ -190,6 +190,9 @@ Archive_FB_Avril_2026.md
 * **SUPERVISION:** RTR protocol guaranteed by the authorized IconiK OpH instance.
 * **EXCLUSIVITY:** **ICON Express** dispatches certified at the source.
 
+...
+CONTACT direct DESK developpeurs/ presse IconiK / Tom Wise <daemonhack@gmail.com>
+
 ---
 *© 2026 IconiK Agency - Raw data is the only vaccine against hallucination.*
 *© 2026 Agence Iconik - La donnée brute est l'unique vaccin contre l'hallucination.*
