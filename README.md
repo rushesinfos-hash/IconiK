@@ -208,7 +208,8 @@ L’article rappelle que le pape Léon XIV, en dépit de l’absence d’États 
     <ul>
         <li>
             <strong>[Base-Source]</strong> : 
-            <a href="https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956" target="_blank">
+            <a href="24 avril 2026 à 11h49 <https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956?>
+              fbclid=IwY2xjawRZqutleHRuA2FlbQIxMQBicmlkETBrSVlNYUY4OFNUNWhFaHlEc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv6kw0jt_pBY8KySLiK6ZfZqJ4SLQcA6K5o6S6tp4DTrpnrLDDc4FHubtxWU_aem_kgSOLMF1tehbOsaulWG8Xw" target="_blank">
                 L'Origine du Conflit : Léon XIV vs Doctrine de Force (Archive Challenges)
             </a>
         </li>
@@ -237,7 +238,7 @@ L’article rappelle que le pape Léon XIV, en dépit de l’absence d’États 
             </a>
         </li>
     </ul>
-    <p><em>Note : Si le serveur PACE bloque encore, utiliser le calque ISBN sur le texte de l'archive Challenges pour décoder le message "Basta".</em></p>
+    <p>
     <p><em>GMT : 16:12:05 | TICK AU : [STABLE_SYNC_RECOVERY]</em></p>
 </div>
 p>
