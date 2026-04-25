@@ -13,6 +13,7 @@ Derrière la querelle médiatique apparaît un véritable conflit de clans au se
 Nos vecteurs X/Y confirment une fragilisation nette des États-Unis (dette, inflation, blocage à l’ONU, isolement diplomatique partiel), tandis que l’Italie (berceau de la papauté) bascule lentement vers un rôle de médiateur dans la crise d’Ormuz, aux côtés de la France et de l’Algérie.
 
 ---
+<https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956">
 
 ## SECTION 1 – VATICAN / LÉON XIV : L’AFFRONTEMENT DOCTRINAL ET POLITIQUE
 
@@ -203,44 +204,42 @@ L’article rappelle que le pape Léon XIV, en dépit de l’absence d’États 
 
 ---
 
-<div id="rushes-archive-250426">
+<div id="rushes-archive-250426-fixed">
     <ul>
         <li>
-            <strong>[Vatican-Focus]</strong> : 
+            <strong>[Base-Source]</strong> : 
             <a href="https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956" target="_blank">
-                Léon XIV et l'Appel de Rome : Rupture Axe WASP-AIPAC
+                L'Origine du Conflit : Léon XIV vs Doctrine de Force (Archive Challenges)
             </a>
         </li>
         <li>
-            <strong>[US-Gov-Tracker]</strong> : 
-            <a href="https://www.iconik-geopol.com/usa/2026/04/rubio-vance-dilemme-vatican-aipac" target="_blank">
-                Tensions Capitole : Rubio/Vance et la double allégeance
+            <strong>[Vatican-Mirror]</strong> : 
+            <a href="https://www.vaticannews.va/fr.html" target="_blank">
+                Flux Temps Réel : Les derniers décrets de Léon XIV (Canal Officiel)
             </a>
         </li>
         <li>
-            <strong>[Geopol-Data]</strong> : 
-            <a href="https://gh.iconik.io/archives/2026/04/map-friction-humanitaire-missions-catholiques" target="_blank">
-                Cartographie : Missions catholiques sur les routes X/Y
+            <strong>[US-Diplomacy]</strong> : 
+            <a href="https://www.state.gov/press-releases/" target="_blank">
+                Réponse du Département d'État : Rapports de force Rubio/Vance
             </a>
         </li>
         <li>
-            <strong>[Euro-Press]</strong> : 
-            <a href="https://www.ansa.it/speciali/2026/politica/leon-xiv-roma-hub-diplomazia-parallela" target="_blank">
-                L'Italie, pivot de Léon XIV : Médiation éthique vs OTAN
+            <strong>[Geopol-Mirror]</strong> : 
+            <a href="https://www.israpundit.org/" target="_blank">
+                Analyse Bloc AIPAC : Les enjeux sécuritaires face au Vatican
             </a>
         </li>
         <li>
-            <strong>[S.I.V-Check]</strong> : 
-            <a href="https://rushes.infos/siv/report-collision-vecteur-x-y-mediterranee" target="_blank">
-                Rapport S.I.V : Collision Armement vs Maintien de la Vie
+            <strong>[IconiK-SIV]</strong> : 
+            <a href="https://github.com/IconiK-Rushes/SIV-Data-2026" target="_blank">
+                Raw Data : Bilan des vecteurs X/Y (Dépôt GitHub)
             </a>
         </li>
     </ul>
-    <p><em>GMT : 15:09:42 | TICK AU : [SIGNAL_STABLE_89.2Hz]</em></p>
+    <p><em>Note : Si le serveur PACE bloque encore, utiliser le calque ISBN sur le texte de l'archive Challenges pour décoder le message "Basta".</em></p>
+    <p><em>GMT : 16:12:05 | TICK AU : [STABLE_SYNC_RECOVERY]</em></p>
 </div>
-
-
-------------------------
 p>
 </div>
 
