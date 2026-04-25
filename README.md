@@ -13,7 +13,7 @@ Derrière la querelle médiatique apparaît un véritable conflit de clans au se
 Nos vecteurs X/Y confirment une fragilisation nette des États-Unis (dette, inflation, blocage à l’ONU, isolement diplomatique partiel), tandis que l’Italie (berceau de la papauté) bascule lentement vers un rôle de médiateur dans la crise d’Ormuz, aux côtés de la France et de l’Algérie.
 
 ---
-<https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956">
+<https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956>
 
 ## SECTION 1 – VATICAN / LÉON XIV : L’AFFRONTEMENT DOCTRINAL ET POLITIQUE
 
