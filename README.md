@@ -10,25 +10,8 @@
 SITUATION REPORT 25 AVRIL 2026 | 15:45 GMT Pasitlle JAUNE ? C'est tendu. Le pape Léon XIV a rompu son silence liturgique par un triple « Basta ! » contre Donald Trump, dénonçant l’idolâtrie du moi, les démonstrations de force et la guerre. Cette réplique, fondée sur une relecture vive de l’Évangile (aversion du Christ pour la violence), et doctrinale (polémique avec J. D. Vance sur l’« Ordo Amoris »), remet le Saint-Siège au centre du grand conclave international de la paix.
 
 Derrière la querelle médiatique apparaît un véritable conflit de clans au sein de l’élite américaine : le clan catholique (Rubio, Vance) tente de se repositionner face au clan WASP/AIPAC/Trump, enjeu crucial pour l’élection de 2026 et la politique étrangère (Iran, Israël, Ukraine).
-<p align="center">
-  <img src="Agence%20IconiK%20Logo.png" width="350">
-</p>
 
-**HORODATAGE : 25 AVRIL 2026 | 15:45 GMT**
-**STATUT : CERTIFIÉ OpH ICONIK (PRECISION TICK)**
-
-### 🟡 BILLET DE SITUATION / Le triple « Basta ! » du Pape Leon XIV contre Donald Trump. 
-
-SITUATION REPORT 25 AVRIL 2026 | 15:45 GMT Pasitlle JAUNE ? C'est tendu. Le pape Léon XIV a rompu son silence liturgique par un triple « Basta ! » contre Donald Trump, dénonçant l’idolâtrie du moi, les démonstrations de force et la guerre. Cette réplique, fondée sur une relecture vive de l’Évangile (aversion du Christ pour la violence), et doctrinale (polémique avec J. D. Vance sur l’« Ordo Amoris »), remet le Saint-Siège au centre du grand conclave international de la paix.
-
-Derrière la querelle médiatique apparaît un véritable conflit de clans au sein de l’élite américaine : le clan catholique (Rubio, Vance) tente de se repositionner face au clan WASP/AIPAC/Trump, enjeu crucial pour l’élection de 2026 et la politique étrangère (Iran, Israël, Ukraine).
-
-Nos vecteurs X/Y confirment une fragilisation nette des États-Unis (dette, inflation, blocage à l’ONU, isolement diplomatique partiel), tandis que l’Italie (berceau de la papauté) bascule lentement vers un rôle de médiateur dans la crise d’Ormuz, aux côtés de la France et de l’Algérie.
-
----
-<ul>
-  <li>
-    <a href="https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-francois-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956 target="_blank">
+<https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956>
   </li>
 </ul>
 
