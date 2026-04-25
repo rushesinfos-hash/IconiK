@@ -14,7 +14,6 @@ Nos vecteurs X/Y confirment une fragilisation nette des États-Unis (dette, infl
 
 ---
 <li>
-    <strong>[Source-Primaire]</strong> : 
     <https://www.challenges.fr/idees/basta-basta-basta-m-trump-quand-le-pape-leon-xiv-se-dresse-face-aux-partisans-de-la-force-et-de-la-guerre_642956>
     </a>
 </li>
