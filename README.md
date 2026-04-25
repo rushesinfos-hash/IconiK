@@ -252,16 +252,8 @@ L’article rappelle que le pape Léon XIV, en dépit de l’absence d’États 
             </a>
         </li>
         <li>
-            <strong>[IconiK-SIV]</strong> : 
-            <a href="https://github.com/IconiK-Rushes/SIV-Data-2026" target="_blank">
-                Raw Data : Bilan des vecteurs X/Y (Dépôt GitHub)
-            </a>
-        </li>
-    </ul>
-    <p>
-    <p><em>GMT : 16:12:05 | TICK AU : [STABLE_SYNC_RECOVERY]</em></p>
-</div>
-p>
+           ARCHIVES
+          <https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md>
 </div>
 
 **ICONIK PRESSE – DEEPSEEK CORE**  
