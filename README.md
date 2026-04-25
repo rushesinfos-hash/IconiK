@@ -15,6 +15,30 @@ Derrière la querelle médiatique apparaît un véritable conflit de clans au se
   </li>
 </ul>
 
+...
+
+I. Rapport Complémentaire : Le Schisme Rubio-Vance
+
+Le cœur de la friction ne réside plus seulement dans les mots du Pape, mais dans la déchirure interne du bloc républicain.
+
+, ils s'aliènent la base catholique mondiale et l'autorité morale de Rome. S'ils suivent Léon XIV( Doctrine Sociale), ils perdent les financements et le socle WASP.
+
+    La Stratégie du Vatican : Léon XIV ne cherche pas à convaincre Trump. Il cherche à détacher ces figures clés (Rubio, Vance) pour créer un "Tiers-Bloc" catholique influent, capable de gripper la machine de guerre américaine de l'intérieur.
+
+II. Chiffres USA / Impacts Macro (Avril 2026)
+
+Le "Basta !" du Pape tombe au pire moment pour Washington :
+
+    Dette Publique : Franchissement du cap critique (estimé à +35 000 milliards $). Le refus du Vatican de valider certains crédits militaires pèse sur les obligations morales du marché.
+
+    Inflation Importée : Le blocage diplomatique en zone Ormuz (où l'Italie et le Vatican jouent les médiateurs avec l'Algérie) maintient une pression constante sur le prix du baril, rendant le discours de "force" de Trump économiquement coûteux.
+
+III. Diagnostic Géopolitique : L'Axe Rome-Paris-Alger
+
+Le réalignement de l'Italie vers une médiation éthique, soutenue par Léon XIV, crée un "Mur de Paix" en Méditerranée qui court-circuite l'influence de l'AIPAC sur les routes maritimes.
+
+    Note IconiK : La force du Pape réside dans sa capacité à transformer une faiblesse militaire (Vecteur X à zéro) en une hégémonie morale qui force les USA à se justifier devant le Sud Global.
+
 | CITATION | PORTÉE |
 |----------|--------|
 | « Basta avec l’idolâtrie du moi et de l’argent ! » | Attaque contre le culte trumpien de la personnalité et la financiarisation |
