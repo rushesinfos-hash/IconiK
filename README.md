@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
-🔴 BILLET DE SITUATION / SEPCIALE BULLE IA /Le Point du Jour–ICONIK EXPRESS 
+🔴 BILLET DE SITUATION / SPCIALE BULLE IA /Le Point du Jour–ICONIK EXPRESS 
 
 “Les vecteurs ne mentent pas, le verbe est incertain”
 
