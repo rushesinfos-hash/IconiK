@@ -22,6 +22,8 @@ Pour e tripode infernal Hélium (19% pénurie) / Ormuz (pétrole 92,80 USD) / Or
 Derrière les chantages de Trump (Ormuz, droits de douane) et les gesticulations des GAFAM (rachats, annonces de nouveaux modèles), la réalité est implacable : les datacenters classiques (refroidissement à air, conception basse consommation) redeviennent compétitifs face aux monstres à hélium. La prospective 2027 annonce une correction majeure : faillites de start-up IA, consolidation, retour à des IA plus sobres (efficience énergétique, pas seulement taille des paramètres).
 BLOC SUPRACONDUCTEURS & HÉLIUM (26 AVRIL 2026) **ROUGE** (0,38/1)
 
+Dosier complet >https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md
+
 ## SYNTHÈSE
 Pénurie hélium 19%, pas d’alternative mature aux supraconducteurs basse température, rentabilité négative, bulle spéculative en train d’éclater.
 
