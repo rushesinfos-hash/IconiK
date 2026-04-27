@@ -1,6 +1,23 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
+🔴 BILLET DE SITUATION / Taïwan le compte à rebours /Le Point du Jour–ICONIK EXPRESS 
+SOURCE : ICONIK PRESS CORE.
+TIMESTAMP : 27 AVRIL 2026 – 22h20 GMT.
+Le siège du silicium : l’équilibre précaire de Taïwan à l’ère de la guerre de l’hélium
+
+Le corridor technologique mondial traverse actuellement une « tempête parfaite » : Taïwan, forge indispensable de l’informatique moderne, se retrouve pris au piège d’une manœuvre en tenaille sophistiquée, mêlant pénurie d’hélium et surenchère géopolitique. Alors que les coupes administratives du Bureau of Land Management provoquent un déficit mondial d'hélium de 19 %, l'infrastructure cryogénique essentielle à la lithographie ultraviolette extrême de TSMC et au secteur émergent des supraconducteurs (« SupraC ») approche d'un point de rupture structurelle. Cette pénurie physique est stratégiquement amplifiée par la résurgence d'une rhétorique isolationniste et des menaces sur le détroit d'Ormuz, propulsant le baril de Brent vers le seuil des 100 dollars et alimentant une fuite vers l'or comme rempart principal. Les observateurs notent une corrélation troublante d’irrégularités boursières, où des ventes à découvert massives sur les valeurs supraconductrices précèdent systématiquement les revirements politiques officiels — signature d’une déstabilisation financière calculée. Tandis que des rapports non vérifiés suggèrent qu'il reste moins de 15 jours de réserves critiques d'hélium dans les stocks taïwanais, le Vatican s'est joint aux médiateurs européens dans un appel pressant à la désescalade, craignant qu'un effondrement total de la chaîne d'approvisionnement ne catalyse un désastre humanitaire et économique de grande ampleur. En définitive, Taïwan est devenu l’épicentre d’un « trépied d’instabilité » où convergent l’énergie, les gaz rares et les postures militaires, laissant les marchés mondiaux suspendus dans une nervosité extrême.
+
+Lien : https://www.blm.gov/programs/energy-and-minerals/helium/federal-helium-program
+...
+Lien : https://investor.tsmc.com/english
+...
+Lien : https://www.csis.org/programs/china-power-project
+...
+Lien : https://www.gasworld.com/helium-intelligence/
+...
+
+
 🔴 BILLET DE SITUATION / SPECIALE BULLE IA /Le Point du Jour–ICONIK EXPRESS 
 
 “Les vecteurs ne mentent pas, le verbe est incertain”
