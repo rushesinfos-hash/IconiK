@@ -1,6 +1,112 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
+🔴 BILLET DE SITUATION /L'OPEP et l'OPEP+ se fragmentent : la bombe du jour. 
+
+Evaluation 21h32GMT Paris 28042026
+
+Les Émirats arabes unis (EAU) ont annoncé le 28 avril 2026 leur retrait effectif dès le 1er mai 2026 de l’OPEP et de l’OPEP+, après 59 ans de membership, invoquant « l’intérêt national » et une « stratégie énergétique de long terme ». Troisième producteur du cartel (3,6 millions de barils/jour) avec un objectif de 5 millions de barils/jour en 2027, Abou Dhabi entend se libérer des quotas contraignants. L’OPEP perd son troisième pilier, l’équilibre des marchés est durablement affecté.
+
+La décision intervient dans un contexte de fermeture quasi totale du détroit d’Ormuz par l’Iran, réduisant drastiquement les exportations régionales et exacerbant les tensions avec l’Arabie saoudite (Yémen) et l’Iran (frappes contre les EAU). Cet événement majeur s’inscrit dans l'onde de choc du conflit Iran-États-Unis initié le 28 février 2026. La sortie des EAU fragilise l’OPEP et pourrait inciter d’autres pays producteurs (Kazakhstan, Irak) à faire de même.
+
+CONSÉQUENCES SUR LES MARCHÉS
+Évolution des prix
+
+    Brent : +3,1% à 111,60 USD/baril avant de refluer à 104 USD/baril sous l’effet de l’annonce.
+
+    WTI : franchit le seuil des 100 USD/baril pour la première fois depuis le 13 avril.
+
+    Analyse Rystad : le marché réévalue le risque géopolitique à la hausse, intégrant une perturbation durable du détroit.
+
+    Volatilité : la perte de capacité de l’OPEP à stabiliser les marchés rend ces derniers plus vulnérables aux chocs.
+
+Offre et demande
+
+    Pénurie physique : la fermeture d’Ormuz a retiré environ 10 millions de barils/jour du marché, un choc d’offre massif jamais vu.
+
+    Capacités de réserve : les EAU et l’Arabie saoudite détenaient l’essentiel des capacités de réserve mondiales. L’OPEP perd un de ses piliers.
+
+    Rebond attendu : à la réouverture du détroit, l’offre additionnelle des EAU pourrait faire chuter les cours, mais rien n’est moins sûr à court terme.
+    
+   < https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-quittent-l-organisation-des-pays-exportateurs-de-petrole-opep-au-nom-de-leur-interet-national_7970138.html?>
+
+     Here are the direct links to the three press articles covering the UAE’s announced exit from OPEC:
+🇺🇸 US Press	AP (Associated Press)
+Title	United Arab Emirates says it will leave OPEC in a blow to the oil cartel
+Direct link :	https://apnews.com/article/opec-united-arab-emirates-leaving-cartel-4966108c3fafacb67181152216deda14
+
+🇷🇺 Russian Press :	TASS (Russian News Agency)
+Title	*UAE to leave OPEC, OPEC+ from May 1 — WAM news agency*
+Direct link:	https://tass.com/economy/2123715
+
+🇨🇳 Chinese Press	Global Times (via CCTV)
+Title	阿联酋宣布将退出欧佩克及“欧佩克+”机制 (UAE announces withdrawal from OPEC and “OPEC+” mechanism)
+Direct link	https://3w.huanqiu.com/a/24d596/4RLgyvCjm89?agt=13
+
+Note: The Global Times article cites CCTV News (Central China Television) as its source.
+
+These three sources illustrate the divergent perspectives: AP focuses on the immediate impact on oil markets and the rift within OPEC; TASS downplays the decision while quoting the official WAM statement; and the Chinese press reports the event with minimal commentary, sticking strictly to the facts of the announcement.
+
+
+POSITION DES GRANDES PUISSANCES
+ACTEUR	POSITION	INTÉRÊTS / STRATÉGIE
+États-Unis / Trump	Soutien actif à la sortie des EAU. La Maison-Blanche y voit une victoire majeure contre l’OPEP (« rip off »). Washington espère affaiblir l’influence saoudo-russe sur les prix.	
+Arabie Saoudite	Fragilisée. Perd un allié de poids au sein du cartel. La rivalité avec les EAU (Yémen, économie) pourrait s’accentuer.	
+Russie	Affaiblie. La sortie des EAU réduit l’influence de Moscou au sein de l’OPEP+. Un effondrement de l’alliance ferait chuter les recettes pétrolières russes.	
+Chine	Bénéficiaire net à moyen terme : prix plus bas à la réouverture d’Ormuz, approvisionnement énergétique plus stable, plus de transactions en yuans.	
+Inde, Europe, Pakistan	Bénéficiaires potentiels (prix plus bas), mais très dépendants des flux via Ormuz actuellement interrompus.	
+TABLEAU DE BORD – SCORES ICONIK
+VECTEUR	INDICATEUR	SCORE (0-1)	COULEUR	COMMENTAIRE
+X (Militaire)	Tensions Golfe	0.95	ROUGE	Guerre Iran–US, fermeture Ormuz, tensions EAU–Arabie Saoudite
+Y (Énergie)	Stabilité OPEP	0.30	ROUGE	Perte du 3e producteur, capacité de régulation diminuée
+Y (Économie)	Prix pétrole	0.50	JAUNE	Brent à 111 USD – choc inflationniste, volatilité extrême
+Santé publique	Impact indirect	0.60	JAUNE	Pétrole cher = inflation = malnutrition + tensions sociales
+Stabilité globale	Indice de risque	0.75	ROUGE	Système énergétique mondial sous tension maximale. 
+
+BILAN :
+
+    ZONE MONDE : ROUGE (rupture de l’ordre énergétique)
+
+    ÉTATS-UNIS : JAUNE/ROUGE (victoire stratégique, mais inflation)
+
+    ARABIE SAOUDITE : JAUNE/ROUGE (affaiblie, isolée au sein de l’OPEP)
+
+    RUSSIE : JAUNE (recettes menacées, influence réduite)
+
+    CHINE : VERT (bénéficiaire net)
+
+    EAU : VERT (souveraineté énergétique retrouvée)
+Here are three press links covering the UAE’s withdrawal from OPEC, arranged by country of origin and accompanied by a brief summary of each article’s central angle.
+
+### 🇺🇸 US Press: Associated Press (AP News)
+
+**Title:** *United Arab Emirates says it will leave OPEC in a blow to the oil cartel*
+**Date:** April 28, 2026
+**Summary:** The UAE’s departure effective May 1 is a major symbolic blow to OPEC. However, its immediate impact on global oil markets is limited for now because the Strait of Hormuz is closed due to the Iran war, which has already slashed global supplies. The UAE’s move is seen as a long-term strategic decision to free itself from production quotas that no longer serve its national interests.
+
+### 🇨🇳 Chinese Press: Global Times
+
+**Title:** *UAE announces exit from OPEC and OPEC+ from starting May 1, report says*
+**Date:** April 28, 2026
+**Summary:** The UAE’s decision is “deeply influenced by the current geopolitical landscape,” according to Chinese experts, and could “potentially shake the very foundation of OPEC.” The outlet notes that with the UAE’s exit, OPEC will lose approximately 15% of its production capacity. Chinese analysts added that the move reflects a strategic cost-benefit calculation, driven by the UAE’s lack of alignment with the organization on key regional issues.
+
+### 🇷🇺 Russian Press: TASS (Russian News Agency)
+
+**Title:** *OPEC+ agreement will remain in effect thanks to Saudi-Russian partnership — expert*
+**Date:** April 28, 2026
+**Summary:** TASS focuses on the resilience of the OPEC+ framework, arguing that its stability rests on the “tacit partnership between Saudi Arabia and Russia.” While the UAE’s withdrawal is acknowledged as a “major blow” to the alliance’s stability, the article posits that the core agreement will continue to function as long as Moscow and Riyadh remain aligned.
+
+
+---
+
+**ICONIK PRESS – DEEPSEEK CORE**  
+*“Vectors do not lie, the verb is uncertain”*  
+*Archive: https://github.com/rushesinfos-hash/IconiK*
+
+
+...
+
+
 🔴 BILLET DE SITUATION / Taïwan le compte à rebours /Le Point du Jour–ICONIK EXPRESS 
 SOURCE : ICONIK PRESS CORE.
 TIMESTAMP : 27 AVRIL 2026 – 22h20 GMT.
