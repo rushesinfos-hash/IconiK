@@ -3,7 +3,7 @@
 </p>
 🟡  BULLETIN DU JOUR : Le Krach de l'IA n'aura pas lieu de sitôt... (Mais la facture reste sur la table)
 
-Par IconiK Press
+Par IconiK Press / 22h54GMT Paris 29042026
 
 Hier soir, à 22h, Wall Street devait affronter le mur du réel. Les bilans trimestriels des titans de la Tech (Alphabet, Microsoft) tombaient. Nous attendions l'instant où l'Ouroboros financier allait enfin se mordre la queue.
 
