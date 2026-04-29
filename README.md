@@ -17,6 +17,7 @@ Mais si l'on gratte le vernis des communiqués de presse, la ligne de faille est
 Pour maintenir cette illusion de croissance, la Tech brûle ses vaisseaux. Alphabet a discrètement confirmé des dépenses en capital (CapEx) flirtant avec les 180 milliards de dollars pour l'année. Ils doublent la mise sur les infrastructures. Pourquoi ? Parce que l'IA générative n'est pas de la magie immatérielle : c'est du métal, du silicium surchauffé et des centrales électriques tournant à plein régime.
 
 Le coût de l'inférence (faire tourner les modèles) explose. Ils s'endettent technologiquement sur l'avenir pour financer des usines à calcul dont la rentabilité organique reste à prouver.
+
 2. Le Syndrome des Bandes Bêtacam
 
 Wall Street célèbre aujourd'hui l'accumulation de matériel. Les fonds d'investissement valorisent ces fermes de serveurs gigantesques comme le trésor du XXIe siècle.
