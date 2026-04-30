@@ -26,7 +26,7 @@ While Wall Street dances to the tune of a $650 billion AI spending spree by the 
 **Technical Documentation: The "Physical Decoupling" Hypothesis – China's Material Advantage vs. GAFAM Energy Dependence**
 
 **Date:** April 30, 2026  
-**Reviewed by:** Thomas Veillet, Analyst, The IconiK Express  
+**Reviewed by:* Tom Wise Analyst, The IconiK Express  
 **Context:** Brent crude = $126/bbl; Strait of Hormuz closure.
 
 ---
