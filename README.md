@@ -17,8 +17,7 @@ Liens 4. https://cryptorank.io/news/feed/9b376-china-data-center-capacity-to-dou
 
 ARCHIVE complète https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md
 
-
-/NEWSLETTER Has China already won the artificial intelligence battle? : The Great Decoupling / Le Grand Découplage
+English : NEWSLETTER :  Has China already won the artificial intelligence battle? : The Great Decoupling / Le Grand Découplage
 
 By IconiK Press
 
