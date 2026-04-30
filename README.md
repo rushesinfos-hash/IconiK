@@ -15,7 +15,7 @@ Liens 3. https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-eve
 
 Liens 4. https://cryptorank.io/news/feed/9b376-china-data-center-capacity-to-double-by-2030-driven-by-ai-hpc-rystad
 
-ARCHIVE complète
+ARCHIVE complète https://github.com/rushesinfos-hash/IconiK/blob/main/Archive_IconiK.md
 
 
 /NEWSLETTER Has China already won the artificial intelligence battle? : The Great Decoupling / Le Grand Découplage
