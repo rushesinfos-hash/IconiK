@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
-🟡 NOTE DE CONJONCTURE : L’Émergence du "Recours" Villepin (2025-2026)
+🟡 NOTE DE CONJONCTURE du 1er MAI : L’Émergence du "Recours" Villepin (2025-2026)
 
 Alors que les marchés financiers s'enfoncent dans la volatilité du "Tripode de la Pénurie" (Pétrole à 126 $ / Or en record / Hélium sous tension), une dynamique politique singulière redessine le paysage français. Dominique de Villepin n’est plus une simple autorité morale ; il s'impose comme la variable d'ajustement d'un système en surchauffe.
 I. Analyse des Flux d’Opinion (Séquence Mai 2025 – Avril 2026)
