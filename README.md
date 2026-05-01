@@ -36,18 +36,15 @@ Si la tendance se confirme au second semestre 2026, Dominique de Villepin cesser
 
 Diagnostic : Dans un monde dominé par l'incertitude et la prédation financière (insider trading), la France semble chercher un "pilote de gros temps". La courbe Villepin est le sismographe de cette attente.
 
+Liens 
+https://www.lemonde.fr/dominique-de-villepin/
+
+https://www.google.com/search?q=https://www.ifop.com/type_etude/barometre-politique/
+
+https://www.lesechos.fr/
 
 
 ...
-
-
-
-
-
-
-
-
-
 
 
 🟡  BULLETIN DU JOUR La Chine a-t-elle déjà gagné la bataille de l’intelligence artificielle?
