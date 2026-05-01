@@ -394,7 +394,7 @@ DATE: 26 AVRIL 2026 – 18h00 GMT ARCHIVE: GITHUB / SCOOP.IT
 
 SOMMAIRE EXÉCUTIF (150 mots)
 
-OUI, c'est rouge vif, malgré les discours et la liesse de Wall Street sur les "supraconducteurs" sauveurs de l'économie modiale, et la realité des données versus la communication mainstream, c'est toujours instructif ! Les entreprises font leurs comptes, les LLM et IA en agents coûtent plus cher qu'un salarié.
+OUI, c'est rouge vif, malgré les discours et la liesse de Wall Street sur les puces et les "supraconducteurs" sauveurs de l'économie modiale, et la realité des données versus la communication mainstream, c'est toujours instructif ! Les entreprises font leurs comptes, les LLM et IA en agents coûtent plus cher qu'un salarié.
 rushes.infos
 ROUGE pour l’ensemble du secteur.
 Même les acteurs dominants (Google, IBM) sont fragilisés.
