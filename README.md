@@ -35,7 +35,7 @@ En France : on a remplacé la culture politique et la mémoire historique human
 
 En Norvège : Le numérique est un service public. On "domestique" l'IA pour optimiser les routes, la gestion des stocks de poissons ou l'énergie. L'IA est une pelle mécanique.
 En France : On laisse les IA US (Palantir) s'infiltrer dans la surveillance d'État. Le numérique devient une camisole de force.
-On accuse la Norvège de vivre sur son pétrole. Certes. Mais la France possède la Rente Nucléaire et Hydroélectrique. Ce pays utilise sa rente pour capitaliser un fonds souverain (le plus gros du monde) qui garantit l'avenir des habitants sans dépendre du marché de demain. C'est une gestion de bon père de famille protestant.
+On accuse la Norvège de vivre sur son pétrole. Certes. Mais la France possède la Rente Nucléaire et Hydroélectrique et contrairement à la France, ce petit pays utilise sa rente pour capitaliser un fonds souverain (le plus gros du monde) qui garantit l'avenir des habitants sans dépendre du marché de demain. C'est une gestion de bon père de famille protestant.
 La France possède de son côté,  une électricité décarbonée parmi les moins chères d’Europe, mais la dilapide dans des règles de marché européen absurdes (l'ARENH) qui font payer au consommateur français le prix du gaz allemand.
 
 Verdict : La Norvège a sécurisé ses rails énergétiques. La France a les rails, mais laisse des tiers mettre des péages dessus et la corruption y prospère. 
