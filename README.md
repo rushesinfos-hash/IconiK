@@ -18,7 +18,7 @@ LA CHAÎNE DE COMMANDEMENT (Les Intoxiqués) :
  
 La Transmission (Pentagone) : Le Secrétaire à la Défense (Lloyd Austin, ou le titulaire en poste) et le Général C.Q. Brown Jr. (Chef d'état-major des armées) reçoivent l'ordre suprême. Leur "devenir-outil" les empêche de questionner la donnée. La discipline de fer se transforme en Obéissance Algorithmique. Le message de tir est envoyé aux silos du Dakota du Nord via le système Global Strategic Communications.
     
-LE TERMINUS (Le Silo Minuteman III) : Au fond du silo de la base de Malmstrom, le Lieutenant de l'Air Force (le "soldat du PC silo") reçoit les codes. Il était en train de regarder CNN en mangeant du pop corn.  Ile necille pas. Il a été formé pour être un rouage, pas une sentinelle. Son écran affiche : "CONFIRMATION IA MULTIPLE : ATTAQUE IMMINENTE". Il n'a aucune "dérivation" pour vérifier. Il n'a que sa clé et sa confiance aveugle dans la "Tête Plate" de Washington.
+LE TERMINUS (Le Silo Minuteman III) : Au fond du silo de la base de Malmstrom, le Lieutenant de l'Air Force (le "soldat du PC silo") reçoit les codes. Il était en train de regarder CNN en mangeant du pop corn.  Ile ne cille pas. Il a été formé pour être un rouage, pas une sentinelle. Son écran affiche : "CONFIRMATION IA MULTIPLE : ATTAQUE IMMINENTE". Il n'a aucune "dérivation" pour vérifier. Il n'a que sa clé et sa confiance aveugle dans la "Tête Plate" de Washington.
 
 LE "PAF !" DU RÉEL : La clé tourne. Non pas parce qu'il y a un ennemi, mais parce que sept machines se sont trompées en chœur et qu'aucun humain n'a eu la "latence" de descendre vérifier le thermomètre chinois défaillant révisé en 2022 dans l'Ohio.
 
