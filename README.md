@@ -51,6 +51,8 @@ https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3700/PEA3701-1/RAND_P
 
 Création du mythe IA, le Bluff de départ : C'est le point de bascule vers les 800 milliards de dollars de capitaisation à marche forcée.. En 2023, des chercheurs de Microsoft publient un papier affirmant avoir vu des "étincelles d'intelligence générale" (AGI) parce qu'une IA avait dessiné une licorne en code. Le New York Times, via Kevin Roose, a transformé ce simple script en une saga mystique, prêtant une âme et des intentions à un moteur de prédiction. C'est cette narration qui a "intoxiqué" le Pentagone en faisant passer un perroquet pour un stratège.
 
+IconiK 15h GMT 05052026
+
 ...
 
 
