@@ -25,7 +25,9 @@ La Grande Illusion Sémantique : Le mirage de l'apprentissage
 
 Au-delà des limites techniques, c'est l'argumentaire marketing lui-même qui est aujourd'hui remis en question par les experts. L'industrie a longtemps entretenu une confusion savante autour de l'acronyme "LLM", suggérant l'émergence de "Learning Language Machines" (Machines d'Apprentissage Linguistique).
 En réalité, ces architectures demeurent de simples "Large Language Models" (Grands Modèles de Langage). Comme le soulignent plusieurs chercheurs indépendants, ces systèmes "n'apprennent rien" de manière organique. Ils se contentent de compiler des bases de données massives pour restituer des séquences statistiques pré-calculées. Une mécanique que certains observateurs n'hésitent plus à qualifier de "perroquet stochastique", soulignant l'incapacité de l'outil à générer de la connaissance au-delà de ce qui a déjà été encodé.
-Un enjeu de souveraineté et de sécurité
+Un enjeu de souveraineté et de sécurité.
+
+https://www.youtube.com/shorts/4_1aF2kmQCQ
 
 Cette démystification intervient alors que les institutions de défense, dont le Pentagone, intègrent massivement ces technologies dans leurs chaînes de commandement. En affirmant que l'intelligence humaine "surpasse de loin" la simple prédiction de texte, le chercheur met en garde contre une confiance aveugle dans un outil de compilation qui, par construction, ignore la complexité du réel et simule la compétence sans jamais la posséder.
 
