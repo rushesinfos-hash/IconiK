@@ -5,7 +5,7 @@
 
 Le 6 mai 2026
 
-Tout le monde parle de l’IA de sa folie, de sa « bulle » et des limites des Data Center thermiques classiques énergivores. L’euphorie des marchés pour les semi-conducteurs, la décision   tonitruante  de Trump d’introduire les IA américaines au Pentagone pour jouer les Dr Folamour a continué d’alimenter la panique générale.  
+Tout le monde parle de l’IA de sa folie, de sa « bulle » et des limites des Data Center thermiques classiques énergivores. L’euphorie artificielle des marchés pour les semi-conducteurs, la décision   tonitruante  de Trump d’introduire les IA américaines au Pentagone pour jouer les Dr Folamour a continué d’alimenter la panique générale.  
 
 Derrière ce « show apocalyptique mondialisé, la GRANDE MUTATION 2026 de l’électronique classique au photonique opérationnel est lancée. 
 
