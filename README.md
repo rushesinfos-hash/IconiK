@@ -47,6 +47,8 @@ https://global.fujitsu/en-global/technology/research/6g/disaggregated-architectu
 
 https://cevoteq.com/ressources-et-donnees/strategies-quantiques-nationales/russie.html
 
+https://vipress.net/quandela-installe-un-ordinateur-quantique-photonique-de-12-qubits-au-cea/
+
 ...
 
 
