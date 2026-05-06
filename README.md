@@ -1,6 +1,55 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
+🟢BILLET : L'ÉVEIL PHOTONIQUE ET LE NOUVEL ÉCHIQUIER GÉOPOLITIQUE 
+
+Le 6 mai 2026
+
+Tout le monde parle de l’IA de sa folie, de sa « bulle » et des limites des Data Center thermiques classiques énergivores. L’euphorie des marchés pour les semi-conducteurs, la décision   tonitruante  de Trump d’introduire les IA américaines au Pentagone pour jouer les Dr Folamour a continué d’alimenter la panique générale.  
+
+Derrière ce « show apocalyptique mondialisé, la GRANDE MUTATION 2026 de l’électronique classique au photonique opérationnel est lancée. 
+
+Ne pas confondre PHOTONIQUE et « quantique ». Les photons circulent sans frottements contrairement à l’électron qui fait des étincelles ! 
+
+Les lasers froids sont ultra-rapides et peu gourmands. BREF, les nouvelles PUCES NVIDIA seront photoniques.  
+Ce n’est pas une promesse messianique. C’est aujourd’hui, les investisseurs asiatiques ne s’y sont pas trompés.   Lightelligence à Hong Kong (+408 %) en quelques mois.  Et les Japonais sont en tête ! 
+
+Rushes.infos 6 mai 2026 
+
+….
+
+(IconiK Express) — 
+
+La rupture technologique du silicium, actée en mai 2026, redéfinit la hiérarchie des puissances mondiales autour de la maîtrise de la lumière.  
+
+Le partenariat stratégique de 4 milliards de dollars entre NVIDIA, Lumentum et Coherent marque la fin de l'hégémonie des interconnexions en cuivre, limitées physiquement à deux mètres. 
+
+Ce pivot vers le phosphure d'indium (InP) permet aux datacenters de franchir le « mur thermique » alors que la taille des modèles d'IA double désormais tous les trois à quatre mois.  
+
+Le Japon s'impose comme l'architecte de cette transition via le réseau APN (All-Photonics Network) de Fujitsu et NTT, offrant une efficacité énergétique cruciale face à un baril de pétrole Brent de plus en plus incertain et cher. 
+
+Sous l'impulsion du PHI Lab, Tokyo déploie des machines de calcul optique (CIM) capables de traiter des combinatoires instantanées, réduisant drastiquement la dépendance aux énergies fossiles. 
+
+La Chine, via l'introduction boursière record de Lightelligence à Hong Kong (+408 %), consolide son avance sur la photonique sur silicium (SiPh). 
+Cette stratégie permet à Pékin de contourner sa dépendance aux terres rares pour les interconnexions tout en maintenant un avantage structurel sur les matériaux avancés.  
+
+À l'opposé, la Russie maintient une posture défensive centrée sur le contrôle des flux. Face aux pannes systémiques et au black-out numérique subi à Moscou, les services de sécurité privilégient le « nettoyage » des réseaux plutôt qu'une transition vers l'informatique « non-Von Neumann ». Le monde se divise désormais entre les bâtisseurs d'infrastructures photoniques froides (Japon, Chine) et les puissances exposées à l'obsolescence thermique et aux coûts de l'énergie (USA, Russie. 
+
+
+Liens : 
+
+https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology
+
+https://letsdatascience.com/news/lightelligence-lists-in-hong-kong-targets-optical-computing-3c1c5549
+
+https://www.rdworldonline.com/ntt-research-taps-tetsuomi-sogawa-to-lead-phi-lab-as-optical-computing-work-advances/
+
+https://global.fujitsu/en-global/technology/research/6g/disaggregated-architecture
+
+
+
+
+
 🔴 DÉPÊCHE IconiK Epress 
  LE "PAPE" DE L'IA DÉNONCE LE BLUFF à 800 milliards des modèles actuels.
 
