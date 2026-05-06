@@ -47,7 +47,7 @@ https://www.rdworldonline.com/ntt-research-taps-tetsuomi-sogawa-to-lead-phi-lab-
 https://global.fujitsu/en-global/technology/research/6g/disaggregated-architecture
 
 
-
+...
 
 
 🔴 DÉPÊCHE IconiK Epress 
