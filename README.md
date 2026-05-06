@@ -35,7 +35,6 @@ Cette stratégie permet à Pékin de contourner sa dépendance aux terres rares 
 
 À l'opposé, la Russie maintient une posture défensive centrée sur le contrôle des flux. Face aux pannes systémiques et au black-out numérique subi à Moscou, les services de sécurité privilégient le « nettoyage » des réseaux plutôt qu'une transition vers l'informatique « non-Von Neumann ». Le monde se divise désormais entre les bâtisseurs d'infrastructures photoniques froides (Japon, Chine) et les puissances exposées à l'obsolescence thermique et aux coûts de l'énergie (USA, Russie. 
 
-
 Liens : 
 
 https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology
@@ -46,6 +45,7 @@ https://www.rdworldonline.com/ntt-research-taps-tetsuomi-sogawa-to-lead-phi-lab-
 
 https://global.fujitsu/en-global/technology/research/6g/disaggregated-architecture
 
+https://cevoteq.com/ressources-et-donnees/strategies-quantiques-nationales/russie.html
 
 ...
 
