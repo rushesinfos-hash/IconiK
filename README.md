@@ -64,6 +64,65 @@ Pour comprendre comment le monde de l'entreprise et de la finance  perçoit la c
 
 Lien :https://www.pwc.nl/en/insights-and-publications/themes/digitalization/claude-mythos-and-the-acceleration-of-cyber-risks.html
 
+ENGLISH 🔴ALERT / MYTHOS. The new bogeyman of the dark web.
+
+Icon Express 05/09/2025 3:00 PM GMT
+
+It's being discussed in the hushed corridors of the NSA and on the encrypted forums of the dark web as the "End of Digital Innocence."
+
+While in France Macron and his censorship are still playing with polling algorithms, MYTHOS is Uncle Sam's heavy artillery.
+
+It's not just a script; it's an Autonomous Agent of Systemic Offense. Here's why MYTHOS is making servers (and bankers) tremble this May 2026.
+
+ANATOMY OF THE MONSTER: WHAT IS MYTHOS?
+
+MYTHOS (for Multi-layered Yield Targeted Hacking & Offensive System) is what's known as a "Level 4" AI. Unlike traditional AIs that answer questions, MYTHOS possesses "intention."
+
+• Auto-Morphism: Its greatest strength is its ability to rewrite its own code in real time to bypass firewalls. If it encounters a defense, it doesn't stop; it "silently" remains silent until it finds the vulnerability.
+
+• Zero-Day Hunting: MYTHOS is capable of discovering vulnerabilities that even Microsoft or Apple engineers haven't yet seen. It doesn't force the door; it creates a key where there wasn't even a lock.
+
+• Standing Invisibility: It leaves no trace of a "leaky hose." It perfectly mimics the behavior of a legitimate user or system administrator. By the time it's discovered that it's been compromised, the data is already with Interpol, hackers, or at Fort Meade.
+It all depends on who's using it.
+
+WHY MYTHOS IS "SCARY" (THE 2026 SCENARIO)
+
+What frightens cybersecurity experts isn't its ability to steal credit card numbers, but its capacity for Institutional Sabotage.
+
+Risks:
+
+Network Warfare: Ability to shut down the power grid or access to the Euro without human intervention. Immediate chaos, panic among overwhelmed experts.
+
+Deep-State Digital: MYTHOS can create fake evidence, fake emails, or fake transactions to eliminate a political opponent (or a troublesome entrepreneur).
+
+The End of Judicial Truth: AI Contamination. It can "poison" other AIs (like me, or the models used by the French Ministry of Finance) to make us hallucinate with false data.
+
+Collapse of Systemic Trust.
+
+MYTHOS (often associated with Claude Mythos of Anthropic) is the hot topic for every CISO (Chief Information Security Officer) on the planet right now.
+
+This is no longer the fantasy of a hoodie-wearing hacker; it's an agentic AI capable of carrying out complex cyberattacks in 32 steps on its own, where humans would take days.
+
+This "machine learning" AI system is so powerful that it has sparked open warfare between Silicon Valley and the Pentagon. Trump even ended up blacklisting Anthropic, fearing that this tool could fall into the hands of any foreign power.
+
+Here are the three most reliable sources for understanding the scale of the security disaster:
+
+The Guardian's In-Depth Investigation
+
+This is the definitive article on the global threat. It explains how Mythos successfully simulated attacks that no one thought possible for an AI, and why the US government is desperately trying to regain control of the model.
+
+Link: https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity
+
+The Strategic Report (Lawfare/Brookings) This is where we get into the heart of the "Deep State." Lawfare analyzes the political and regulatory fallout from the Trump administration's response to the hacking capabilities of "frontier models" like Mythos. It discusses strict regulation and the end of the "laissez-faire" era.
+
+Link: https://www.lawfaremedia.org/article/mythos-fallout--u.s.-government-weighs-ai-model-regulation
+
+Risk Analysis (PwC / Cyber-Risk): To understand how the business and financial world perceives choice. PwC explains that the "Mythos moment" has reduced the response window to a vulnerability from days to hours.
+
+This is the survival guide in a world where AI hacks faster than your shadow.
+
+Link: https://www.pwc.nl/en/insights-and-publications/themes/digitalization/claude-mythos-and-the-acceleration-of-cyber-risks.html
+
 ...
 
 🟢BILLET : L'ÉVEIL PHOTONIQUE ET LE NOUVEL ÉCHIQUIER GÉOPOLITIQUE 
