@@ -3,6 +3,8 @@
 </p>
 🔴 BILLET D'ALERTE / MYTHOS. Le nouveau croque-mitaine du Web profond. 
 
+Icon Express 09 05 2025 15h.00 GMT
+
 On en parle dans les couloirs feutrés de la NSA et sur les forums chiffrés du darkweb comme de la « Fin de l'innocence numérique ».
 
 Si en France Macron et sa censure jouent encore avec des algorithmes de sondage, MYTHOS, est l'artillerie lourde de l'Oncle Sam. 
