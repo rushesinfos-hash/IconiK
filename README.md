@@ -1,8 +1,8 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
-🔴 BILLET D'ALERTE 
-17052026 Microsoft Research vient de lâcher une étude explosive qui devrait refroidir l'enthousiasme autour des agents IA autonomes solutions d'entre^rise.
+🔴 BILLET D'ALERTE 17052026  
+Microsoft Research vient de lâcher une étude explosive qui devrait refroidir l'enthousiasme autour des agents IA autonomes solutions d'entre^rise.
 
 Voici leur expérience : vous confiez un document à un agent IA et vous l'enchaînez sur vingt interactions. 
 
