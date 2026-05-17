@@ -1,6 +1,40 @@
 <p align="center">
   <img src="Agence%20IconiK%20Logo.png" width="350">
 </p>
+🔴 BILLET D'ALERTE 
+17052026 Microsoft Research vient de lâcher une étude explosive qui devrait refroidir l'enthousiasme autour des agents IA autonomes solutions d'entre^rise.
+
+Voici leur expérience : vous confiez un document à un agent IA et vous l'enchaînez sur vingt interactions. 
+
+Leur astuce : à chaque étape, l'IA fait une transformation, puis son exact inverse. Si elle est fiable, on retombe sur l'original. Sinon, ça s'éloigne, sans que vous le voyiez. Ils ont testé 19 modèles, dont GPT-5.4, Claude 4.6 Opus et Gemini 3.1 Pro, sur 52 métiers. 
+
+Verdict : tous les modèles abîment les documents. Les meilleurs en perdent un quart, en silence. 
+
+La moyenne : 50 % de contenu corrompu.
+
+Mais le vrai sujet derrière ces résultats, c'est la façon dont l'erreur arrive. 
+
+Les modèles ne dégradent pas l'information progressivement, ils dérapent par ruptures brutales. Ils marchent bien, ils marchent bien, puis ils craquent net. Un paragraphe disparaît, un chiffre change, une ligne s'efface. Dix à trente points perdus d'un coup. Quatre-vingt pour cent de la dégradation vient de ces ruptures rares.
+
+Pendant deux ans, on nous a vendu la délégation comme l'avenir du travail intellectuel. Vibe coding, agents autonomes, IA qui fait à votre place. Avec une intuition implicite : plus le modèle est gros, moins il se trompe. L'étude Microsoft brise cette promesse. Sur 52 métiers, un seul fonctionne en délégation : le code Python. Un sur cinquante-deux.
+
+C'est ce qu'une étude de Harvard appelait en 2023 la frontière irrégulière. L'IA brille à un endroit, on en déduit qu'elle est compétente partout. C'est faux. Il faut arrêter de faire surconfiance à l'IA. Plus l'agent est autonome, plus il enchaîne sans contrôle, plus les erreurs explosent en cascade.
+
+Alors déléguons, oui, mais avec les bons cadres de vigilance.
+
+La question n'est plus de savoir si l'IA va dégrader l'information. C'est quand. Et qui sera là pour le voir
+
+ LIens utiles : 
+ 
+ https://www.clubic.com/actualite-612613-microsoft-teste-52-scenarios-pro-sur-les-agents-ia-les-resultats-sont-accablants.html
+
+ https://arxiv.org/abs/2604.15597  (Le lien permanent sur arXiv)
+
+https://github.com/microsoft/DELEGATE52   (Le dépôt de code officiel sur GitHub)
+
+...
+
+
 🔴 BILLET D'ALERTE / MYTHOS. Le nouveau croque-mitaine du Web profond. 
 
 Icon Express 09 05 2025 15h.00 GMT
